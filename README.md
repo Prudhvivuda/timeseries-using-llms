@@ -1,4 +1,4 @@
-# Time Series Forecasting with LLMs
+# Time Series Forecasting with Large Language Models
 
 ## Overview  
 This repository demonstrates how to use large language models (LLMs) to perform time series forecasting. We benchmark LLM‑based approaches against more traditional methods and explore techniques to improve accuracy, efficiency, and long‑horizon stability.
